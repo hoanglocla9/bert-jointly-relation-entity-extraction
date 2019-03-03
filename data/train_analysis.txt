@@ -1,0 +1,8 @@
+#doc1
+0	Ai	B-VAR	['N']	[0]
+1	là	B-RLT	['PO','SP']	[0,2]
+2	Langston_Hughes	B-ETT	['N']	[2]
+#doc2
+0	Ai	B-VAR	['N']	[0]
+1	là	B-RLT	['PO','SP']	[0,2]
+2	Damocles	B-ETT	['N']	[2]
