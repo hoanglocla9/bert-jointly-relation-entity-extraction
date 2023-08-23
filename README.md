@@ -1,4 +1,4 @@
-# bert-jointly-relation-entity-extraciton  
+# bert-jointly-relation-entity-extraction  
 
 ## Reference:   
    [1] BERT pytorch: https://github.com/huggingface/pytorch-pretrained-BERT <br/>
